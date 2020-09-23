@@ -172,7 +172,7 @@ hr{
 
 .socialNetwork__container--icons {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 /* Adopta un lomito*/
